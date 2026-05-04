@@ -141,7 +141,13 @@ Calendar (auto-inferred): Google Calendar (Vestiaire workspace) + Outlook Calend
 Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your desktop you keep meaning to organize?
 
 ```
-[Your answer here]
+Meeting recordings: Google Meet (native recordings).
+
+Notes: Microsoft To Do.
+
+Docs (work / Vestiaire): Google Drive (Vestiaire Workspace).
+
+Docs (personal — AVANTIR, real estate, algo trading): Google Drive (personal) + Notion.
 ```
 
 ---
