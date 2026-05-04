@@ -123,7 +123,15 @@ Single source of truth: the Google Sheet. Everything aggregates there.
 Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMessage)? Phone?
 
 ```
-[Your answer here]
+Email: louis.giuliani@vestiairecollective.com (Google Workspace, work) + louisgiuliani@hotmail.com (Outlook, personal).
+
+Internal chat: Slack at Vestiaire only. Nothing else.
+
+DMs (external): WhatsApp, iMessage, LinkedIn DMs, Messenger.
+
+Phone: voice notes can matter, but only for real estate / building calls.
+
+Calendar (auto-inferred): Google Calendar (Vestiaire workspace) + Outlook Calendar (Hotmail). To confirm at scaffold time.
 ```
 
 ---
