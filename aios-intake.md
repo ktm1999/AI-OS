@@ -157,7 +157,17 @@ Docs (personal — AVANTIR, real estate, algo trading): Google Drive (personal) 
 The single biggest time-suck or recurring drudgery. Plus where tasks/projects live (ClickUp / Asana / Linear / Notion / a notebook).
 
 ```
-[Your answer here]
+Top pain (top_pain): Vestiaire Slack triage — responding intelligently to colleagues' Slacks across product teams. The cognitive cost is in pulling the right context to answer well, not the typing itself.
+
+Secondary pain: Daily stand-up meeting eats time.
+
+Tertiary pain: Calling building sellers manually for real estate prospecting. Flagged as a future automation candidate — voice clone (ElevenLabs) + outbound French agent (Vapi / Bland / Synthflow / Retell) can plausibly handle this. To revisit on Day 14 via /level-up.
+
+Everything else is "fairly automated" already.
+
+Task tracking:
+- Vestiaire / work: Jira (real tickets, internal).
+- Personal tasks (AVANTIR, real estate, algo, life): Microsoft To Do.
 ```
 
 ---
