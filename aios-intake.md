@@ -95,9 +95,11 @@ Louis
 Quarterly priorities. Not yearly aspirations. Things that, if not done by July, would make you say "I wasted Q2."
 
 ```
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
+1. Real estate — sign the compromis (preliminary purchase agreement) on a building before summer 2026 (end of June). City TBD, depends on what surfaces. Hard requirement: the operation must generate at least €2,500/month gross rental income.
+
+2. Algo trading — system live before summer 2026 (end of June). Definition of "live": connected to broker, strategy finalized and validated, technical application built and ready to run.
+
+Explicitly deprioritized for Q2: AVANTIR (freelance company). Not a priority this quarter.
 ```
 
 ---
