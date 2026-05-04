@@ -11,7 +11,11 @@ This is the source-of-truth file for your AIOS. Fill it in by typing, voice-past
 Identity, offer, ICP. One paragraph each is fine.
 
 ```
-[Your answer here]
+Identity: Paris-based solo operator. Full-time Agentic AI & Growth Product Lead at Vestiaire Collective, founder of AVANTIR (growth systems, AI, performance marketing), active real estate investor in French secondary cities, and personal algo trader running automated systems on own capital.
+
+Offer: Three distinct things: (1) end-to-end growth architecture through AVANTIR — paid acquisition, attribution and MarTech systems, SEO/GEO, AI workflows, CRM, cloud infra, conversion-optimized web; (2) strategic consulting on growth and AI systems for companies that need senior operator thinking; (3) real estate — buys, analyzes, and operates multi-unit rental buildings in France as a capital allocation vehicle, not a service.
+
+ICP: For AVANTIR: CMOs, Heads of Growth, or founders at scale-ups and mid-market companies with fragmented stacks and no one internal who can own the full picture — paid, data, and systems together. For real estate: no external ICP, self is the investor.
 ```
 
 ---
