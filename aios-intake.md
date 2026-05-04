@@ -109,7 +109,11 @@ Explicitly deprioritized for Q2: AVANTIR (freelance company). Not a priority thi
 Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 
 ```
-[Your answer here]
+Banking & income aggregation: Powens + Plaid + n8n + custom API connections pull from all bank accounts (Vestiaire salary, AVANTIR freelance revenue, real estate rental income) into a Google Sheet that updates automatically.
+
+Algo trading P&L: Alpaca (automated systems) + Interactive Brokers (manual, non-automated investing). Both broker P&Ls also flow into the Google Sheet.
+
+Single source of truth: the Google Sheet. Everything aggregates there.
 ```
 
 ---
